@@ -8,3 +8,10 @@ methods for live monitoring of RStudio Server and Connect. If you are interested
 in hearing more, please [sign up](https://jumpingrivers.typeform.com/to/RCUweI) to 
 get information about our beta version.
 
+---
+
+# Don't try this at home
+
+Test, test, test:
+- test1
+- test2
